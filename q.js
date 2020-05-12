@@ -6,6 +6,5 @@ var quotes = [
 ]
 function newQuote() {
 var randomNumber = Math.floor(Math.random()*(quotes.length));
-function printquote(){
-    document.write(quote[randomquote]);
+document.getElementById('quotes').innerHTML = quotes.[randomNumber];
 }
