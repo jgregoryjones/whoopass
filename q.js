@@ -1,8 +1,8 @@
 var quotes = [
-‘Don\'t wait for your ship to come in, swim out to it.',
-‘Don\'t wait for your ship to come in, swim out to it.',
-‘Don\'t wait for your ship to come in, swim out to it.',
-‘Don\'t wait for your ship to come in, swim out to it.~bob'
+‘red',
+‘green',
+‘blue',
+‘orange'
 ]
 function newQuote() {
 var randomNumber = Math.floor(Math.random()*(quotes.length));
