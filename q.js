@@ -8,7 +8,7 @@ quotes[2]=‘Don\'t wait for your ship to come in, swim out to it.</br> <i>~Cath
 
 quotes[3]=‘Don\'t wait for your ship to come in, swim out to it.</br> <i><b>~Cathy Hopkins</b></i>'
 
-quotes[4]=‘Don\'t wait for your ship to come in, swim out to it.</br> <i>~Cathy Hopkins</i>'
+quotes[4]=‘Don\'t wait for your ship to come in, swim out to it.</br> <i>~Bob</i>'
 
 var whichquote=Math.floor(Math.random()*(quotes.length))
 document.write(quotes[whichquote])
