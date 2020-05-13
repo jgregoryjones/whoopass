@@ -1,8 +1,8 @@
 //immediate invoked function expression
 (function() {
   const quotes = [
-{	      quote:	What happens is not as important as how you react to what happens.	      author: 	"Thaddeus Golas"		    },
-{	      quote:	I hear and I forget, I see and I remember. I do and I understand.	      author:	“Chinese Proverb”		    },
+{	      quote:	"What happens is not as important as how you react to what happens."	      author: 	"Thaddeus Golas"		    },
+{	      quote:	"I hear and I forget, I see and I remember. I do and I understand."	      author:	“Chinese Proverb”		    },
 
   const btn = document.getElementById("generate-btn");
 
