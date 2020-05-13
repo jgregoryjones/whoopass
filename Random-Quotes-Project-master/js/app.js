@@ -9,7 +9,7 @@
     {
       quote:
         "Humor is richly rewarding to the person who employs it. It has some value in gaining and holding attention. But it has no persuasive value at all",
-      author: "aaa"
+      author: "John Kenneth Galbraith"
     },
     {
       quote:
@@ -18,12 +18,12 @@
     },
     {
       quote: "The price of anything is the amount of life you exchange for it.",
-      author: "Dork"
+      author: "David Thoreau"
     },
     {
       quote:
         "Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance. ",
-      author: "Crap"
+      author: "Charles Lindbergh"
     },
     {
       quote:
