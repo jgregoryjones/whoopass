@@ -48,12 +48,12 @@ const quotes = [
 {
       quote:
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
+      author: "Tyne Daly"
     }
 {
       quote:
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
+      author: "Tyne Daly"
     }
 
   ];
