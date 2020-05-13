@@ -1,8 +1,6 @@
 //immediate invoked function expression
 (function() {
   const quotes = [
-```jsx
-const quotes = [
     {
       quote:
         "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
@@ -59,7 +57,6 @@ const quotes = [
     }
 
   ];
-```
   const btn = document.getElementById("generate-btn");
 
   btn.addEventListener("click", function() {
