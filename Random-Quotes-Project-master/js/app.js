@@ -4,7 +4,7 @@ const quotes = [
     {
       quote:
         "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
-      author: "Henry David Thoreau"
+      author: "Thoreau"
     },
     {
       quote:
