@@ -3,13 +3,18 @@
   const quotes = [
     {
       quote:
+        "Listen to the mustn’ts, child. Listen to the don’ts. Listen to the shouldn’ts, the impossibles, the won’ts. Listen to the never haves, then listen close to me… Anything can happen, child. Anything can be.",
+      author: "Shel Silverstein"
+    },
+    {
+      quote:
         "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
-      author: "Henry David Thoreau"
+      author: "HENRY DAVID THOREAU"
     },
     {
       quote:
         "God save me from my friends. I can protect myself from my enemies.",
-      author: "Claude Louis Hector de Villars"
+      author: "Claude Louis Hector de Villars "
     },
     {
       quote: "The price of anything is the amount of life you exchange for it.",
@@ -23,40 +28,10 @@
     {
       quote:
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: "Tyne Daly"
-    }
-{
-      quote:
-        "You don’t have to live your life the way other people expect you to.",
-      author: "Chris Guillebeau, The Art of Non-Conformity"
-    }
-{
-      quote:
-        "I don’t understand why people are frightened of new ideas. I’m frightened of the old ones.",
-      author: "John Cage"
-    }
-{
-      quote:
-        "The great pleasure in life is doing what people say you cannot do.",
-      author: "Walter Bagehot"
-    }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
       author: " Tyne Daly"
     }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
-    }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
-    }
-
   ];
+
   const btn = document.getElementById("generate-btn");
 
   btn.addEventListener("click", function() {
