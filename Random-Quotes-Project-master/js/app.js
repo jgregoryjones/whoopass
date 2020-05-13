@@ -4,7 +4,7 @@ const quotes = [
     {
       quote:
         "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
-      author: "Thoreau"
+      author: "Henry David Thoreau"
     },
     {
       quote:
@@ -39,21 +39,6 @@ const quotes = [
       quote:
         "The great pleasure in life is doing what people say you cannot do.",
       author: "Walter Bagehot"
-    }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: " Tyne Daly"
-    }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: "Tyne Daly"
-    }
-{
-      quote:
-        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
-      author: "Tyne Daly"
     }
 
   ];
