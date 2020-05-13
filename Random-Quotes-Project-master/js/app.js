@@ -1,9 +1,65 @@
 //immediate invoked function expression
 (function() {
   const quotes = [
-{	      quote:	"What happens is not as important as how you react to what happens."	      author: 	"Thaddeus Golas"		    },
-{	      quote:	"I hear and I forget, I see and I remember. I do and I understand."	      author:	“Chinese Proverb”		    }
-]
+```jsx
+const quotes = [
+    {
+      quote:
+        "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
+      author: "Henry David Thoreau"
+    },
+    {
+      quote:
+        "God save me from my friends. I can protect myself from my enemies.",
+      author: "Claude Louis Hector de Villars"
+    },
+    {
+      quote: "The price of anything is the amount of life you exchange for it.",
+      author: "Henry David Thoreau"
+    },
+    {
+      quote:
+        "Bullshit is work that is done merely to complete requirements, make you look good, or otherwise fill up the hours of the day.",
+      author: "Chris Guillebeau, The Art of Non-Conformity"
+    },
+    {
+      quote:
+        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
+      author: "Tyne Daly"
+    }
+{
+      quote:
+        "You don’t have to live your life the way other people expect you to.",
+      author: "Chris Guillebeau, The Art of Non-Conformity"
+    }
+{
+      quote:
+        "I don’t understand why people are frightened of new ideas. I’m frightened of the old ones.",
+      author: "John Cage"
+    }
+{
+      quote:
+        "The great pleasure in life is doing what people say you cannot do.",
+      author: "Walter Bagehot"
+    }
+{
+      quote:
+        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
+      author: " Tyne Daly"
+    }
+{
+      quote:
+        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
+      author: " Tyne Daly"
+    }
+{
+      quote:
+        "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
+      author: " Tyne Daly"
+    }
+
+  ];
+```
   const btn = document.getElementById("generate-btn");
 
   btn.addEventListener("click", function() {
