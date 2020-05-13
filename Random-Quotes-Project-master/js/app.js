@@ -3,13 +3,13 @@
   const quotes = [
     {
       quote:
-        "Life is too short and sweet to be spent by cribbing and complaining about things. Here are some random quotes about the most wonderful gift that we've got",
-      author: " Life"
+        "Listen to the mustn’ts, child. Listen to the don’ts. Listen to the shouldn’ts, the impossibles, the won’ts. Listen to the never haves, then listen close to me… Anything can happen, child. Anything can be.",
+      author: "Shel Silverstein"
     },
     {
       quote:
-        "Humor is richly rewarding to the person who employs it. It has some value in gaining and holding attention. But it has no persuasive value at all",
-      author: "John Kenneth Galbraith"
+        "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
+      author: "HENRY DAVID THOREAU"
     },
     {
       quote:
@@ -18,12 +18,12 @@
     },
     {
       quote: "The price of anything is the amount of life you exchange for it.",
-      author: "David Thoreau"
+      author: "Henry David Thoreau"
     },
     {
       quote:
-        "Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance. ",
-      author: "Charles Lindbergh"
+        "Bullshit is work that is done merely to complete requirements, make you look good, or otherwise fill up the hours of the day.",
+      author: "Chris Guillebeau, The Art of Non-Conformity"
     },
     {
       quote:
