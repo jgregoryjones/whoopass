@@ -1,7 +1,6 @@
 //immediate invoked function expression
 (function() {
 const quotes = [
-{quote:"Whether you think you can or whether you think you can't, you're right!",author: "Henry Ford”},
     {
       quote:
         "Most men lead lives of quiet desperation and go to the grave with their song still in them.",
