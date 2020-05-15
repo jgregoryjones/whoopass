@@ -3,7 +3,7 @@
 const quotes = [
     {
       quote:
-        "Whether you think you can or whether you think you can't, you're right!"
+        "Whether you think you can or whether you think you can't, you're right!",
         author: "Henry Ford"
       },
     {
@@ -43,7 +43,7 @@ const quotes = [
       },
     {
       quote:
-        "If there is something to gain and nothing to lose by asking, by all means ask!"
+        "If there is something to gain and nothing to lose by asking, by all means ask!",
         author: "W. Clement Stone"
       },
     {
@@ -263,12 +263,12 @@ const quotes = [
       },
     {
       quote:
-        "To live fully, one must be free, but to be free one must give up security. Therefore, to live one must be ready to die. How's that for a paradox?"
+        "To live fully, one must be free, but to be free one must give up security. Therefore, to live one must be ready to die. How's that for a paradox?",
         author: "Tom Robbins"
       },
     {
       quote:
-        "How can you admire a human who consciously embraces the bland, the mediocre, and the safe rather than risk the suffering that disappointment can bring?"
+        "How can you admire a human who consciously embraces the bland, the mediocre, and the safe rather than risk the suffering that disappointment can bring?",
         author: "Tom Robbins"
       },
     {
@@ -393,7 +393,7 @@ const quotes = [
       },
     {
       quote:
-        "What's the use of being legible, when nothing inspires you to take notice of it?"
+        "What's the use of being legible, when nothing inspires you to take notice of it?",
         author: "Wolfgang Weingart"
       },
     {
