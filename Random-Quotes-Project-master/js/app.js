@@ -1,11 +1,11 @@
-//immediate invoked function expression
-(function() {
-const quotes = [
+// immediate invoked function expression
+(function () {
+  const quotes = [
     {
       quote:
         "Whether you think you can or whether you think you can't, you're right!",
-        author: "Henry Ford"
-      },
+      author: "Henry Ford"
+    },
     {
       quote:
         "Do not let what you cannot do interfere with what you can do.",
@@ -313,12 +313,12 @@ const quotes = [
       },
     {
       quote:
-        "Read your work out loud. Don't give me that look. Read your work aloud. Don't argue. Don't fight. It will help. I promise. I promise. I guarantee it. If you find it didn't help you, lemme know. I will let you Taser me in the face. And by "me," I mean, some other guy who will be my stand-in. Probably some real estate agent or tollbooth attendant.",
+        "Read your work out loud. Don't give me that look. Read your work aloud. Don't argue. Don't fight. It will help. I promise. I promise. I guarantee it. If you find it didn't help you, lemme know. I will let you Taser me in the face. And by 'me,' I mean, some other guy who will be my stand-in. Probably some real estate agent or tollbooth attendant.",
         author: "Chuck Wendig"
       },
     {
       quote:
-        "Here are the two states in which you may exist: person who writes, or person who does not. If you write: you are a writer. If you do not write: you are not. Aspiring is a meaningless null state that romanticizes Not Writing. It’s as ludicrous as saying, “I aspire to pick up that piece of paper that fell on the floor.” Either pick it up or don’t. I don’t want to hear about how your diaper’s full. Take it off or stop talking about it.",
+        "Here are the two states in which you may exist: person who writes, or person who does not. If you write: you are a writer. If you do not write: you are not. Aspiring is a meaningless null state that romanticizes Not Writing. It’s as ludicrous as saying, 'I aspire to pick up that piece of paper that fell on the floor.' Either pick it up or don’t. I don’t want to hear about how your diaper’s full. Take it off or stop talking about it.",
         author: "Chuck Wendig"
       },
     {
@@ -350,11 +350,6 @@ const quotes = [
       quote:
         "The best gift you can give somebody is a surprise because they never forget.",
         author: "Chuck Wendig, Wanderers"
-      },
-    {
-      quote:
-        "People like the illusion of choice. Gives them comfort in these strange times.”
-        author: "Chuck Wendig, Aftermath"
       },
     {
       quote:
@@ -516,9 +511,14 @@ const quotes = [
         "User-centered design means understanding what your users need, how they think, and how they behave - and incorporating that understanding into every aspect of your process.",
         author: "Jesse James Garrett"
       },
-    {
+        {
       quote:
-        "No amount of evidence will ever persuade an idiot"
+        "People like the illusion of choice. Gives them comfort in these strange times.",
+        author: "Chuck Wendig, Aftermath"
+      },
+  	{
+      quote:
+        "No amount of evidence will ever persuade an idiot.",
         author: "Mark Twain"
       },
     {
@@ -586,12 +586,12 @@ const quotes = [
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
       author: "Tyne Daly"
     },
-{
+    {
       quote:
         "You don’t have to live your life the way other people expect you to.",
       author: "Chris Guillebeau, The Art of Non-Conformity"
     },
-{
+    {
       quote:
         "I don’t understand why people are frightened of new ideas. I’m frightened of the old ones.",
       author: "John Cage"
