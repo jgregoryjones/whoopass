@@ -573,7 +573,8 @@
       author: "Claude Louis Hector de Villars"
     },
     {
-      quote: "The price of anything is the amount of life you exchange for it.",
+      quote: 
+        "The price of anything is the amount of life you exchange for it.",
       author: "Henry David Thoreau"
     },
     {
