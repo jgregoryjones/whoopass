@@ -428,7 +428,7 @@
     },
     {
       quote:
-        "our personal brand is what people say about you when you are not in the room – remember that. And more importantly, let’s discover why!",
+        "Your personal brand is what people say about you when you are not in the room – remember that. And more importantly, let’s discover why!",
       author: "Chris Ducker"
     },
     {
