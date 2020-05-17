@@ -8,6 +8,616 @@
     },
     {
       quote:
+        "Creativity comes from spontaneous meetings, from random discussions.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Don’t let the noise of others’ opinions drown out your own inner voice.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Great things in business are never done by one person, they're done by a team of people.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "If you define the problem correctly, you almost have the solution.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "If you don't have a passion, you'll give up.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "It doesn’t make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "It takes a lot of hard work to make something simple.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "It's technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "It's the disease of thinking that a having a great idea is really 90% of the work. And if you just tell people, 'here's this great idea,' then of course they can go off and make it happen. The problem with that is that there's a tremendous amount of craftsmanship between a having a great idea and having a great product.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Learn continually - there's always ‘one more thing’ to learn!",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "My job is not to be easy on people. My job is to take these great people we have and to push them and make them even better.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "None of us are as creative as all of us.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Older people sit down and ask, 'What is it?' but the boy asks, 'What can I do with it?'",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "People don't know what they want until you show it to them. That's why I never rely on marketing research. Our task is to read things that are not yet on the page.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "The real art is knowing what to leave out, not what to put in.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "To go forward you have to leave something behind.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "We have always been shameless about stealing great ideas.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "When you first start off trying to solve a problem, the first solutions you come up with are very complex, and most people stop there. But if you keep going, and live with the problem and peel more layers of the onion off, you can often times arrive at some very elegant and simple solutions.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "You know we're constantly taking. We don't make most of the food we eat, we don't grow it, anyway. We wear clothes other people make, we speak a language other people developed, we use a mathematics other people evolved and spent their lives building. I mean we're constantly taking things. It's a wonderful ecstatic feeling to create something and put it into the pool of human experience and knowledge.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "You should never go to a meeting or make a telephone call without a clear idea of what you are trying to achieve.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Your customers don't care about you. They don't care about your product or service. They care about themselves, their dreams, their goals. Now, they will care much more if you help them reach their goals, and to do that, you must understand their goals, as well as their needs and deepest desires.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.",
+      author: "Steve Jobs"
+    },
+    {
+      quote:
+        "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.",
+      author: "Milton Glaser"
+    },
+    {
+      quote:
+        "If no one hates it, no one really loves it.",
+      author: "Jessica Walsh"
+    },
+    {
+      quote:
+        "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.",
+      author: "Paul Rand"
+    },
+    {
+      quote:
+        "To be a good artist / letterer / designer / guitar player, it takes practice. A lot of it. More than you can even fathom when you’re starting out.",
+      author: "Jessica Hische"
+    },
+    {
+      quote:
+        "Good design is all about making other designers feel like idiots because that idea wasn’t theirs.",
+      author: "Frank Chimero"
+    },
+    {
+      quote:
+        "Live in the leading--the spaces in between the rules.",
+      author: "Stefan Mumaw"
+    },
+    {
+      quote:
+        "Have no fear of perfection—you’ll never reach it.",
+      author: "Salvador Dali"
+    },
+    {
+      quote:
+        "Good design is like a refrigerator—when it works, no one notices, but when it doesn’t, it sure stinks.",
+      author: "Irene Au"
+    },
+    {
+      quote:
+        "The alternative to good design is always bad design. There is no such thing as no design.",
+      author: "Adam Judge"
+    },
+    {
+      quote:
+        "It’s easier to ask forgiveness than it is to get permission.",
+      author: "Grace Hopper"
+    },
+    {
+      quote:
+        "Creativity is a highfalutin word for the work I have to do between now and Tuesday.",
+      author: "Ray Kroc"
+    },
+    {
+      quote:
+        "Simplicity is the ultimate sophistication.",
+      author: "Leonardo da Vinci"
+    },
+    {
+      quote:
+        "Whitespace is like air: it is necessary for design to breathe.",
+      author: "Wojciech Zieliński"
+    },
+    {
+      quote:
+        "I love deadlines. I like the whooshing sound they make as they fly by.",
+      author: "Douglas Adams"
+    },
+    {
+      quote:
+        "For every complex problem, there is an answer that is clear, simple, and wrong.",
+      author: "H. L. Mencken"
+    },
+    {
+      quote:
+        "To design is much more than simply to assemble, to order, or even to edit: it is to add value and meaning, to illuminate, to simplify, to clarify, to modify, to dignify, to dramatize, to persuade, and perhaps even to amuse. To design is to transform prose into poetry.",
+      author: "Paul Rand"
+    },
+    {
+      quote:
+        "Good design is obvious. Great design is transparent.",
+      author: "Joe Sparano"
+    },
+    {
+      quote:
+        "Do not seek praise. Seek criticism.",
+      author: "Paul Arden"
+    },
+    {
+      quote:
+        "Styles come and go. Good design is a language, not a style.",
+      author: "Massimo Vignelli"
+    },
+    {
+      quote:
+        "If you think good design is expensive, you should look at the cost of bad design.",
+      author: "Ralf Speth"
+    },
+    {
+      quote:
+        "The work you do while you procrastinate is probably the work you should be doing for the rest of your life.",
+      author: "Jessica Hische"
+    },
+    {
+      quote:
+        "Less is more work.",
+      author: "Patric McCue"
+    },
+    {
+      quote:
+        "The best ideas come as jokes. Make your thinking as funny as possible.",
+      author: "David Ogilvy"
+    },
+    {
+      quote:
+        "I have made this longer than usual because I have not had time to make it shorter.",
+      author: "Blaise Pascal, Lettres Provinciales (1657)"
+    },
+    {
+      quote:
+        "Eighty percent of success is showing up.",
+      author: "Woody Allen"
+    },
+    {
+      quote:
+        "I don't know what I'm doing, but my incompetence has never stopped my enthusiasm.",
+      author: "Woody Allen"
+    },
+    {
+      quote:
+        "Confidence is what you have before you understand the problem.",
+      author: "Woody Allen"
+    },
+    {
+      quote:
+        "Some drink deeply from the river of knowledge. Others only gargle.",
+      author: "Woody Allen"
+    },
+    {
+      quote:
+        "The food here is terrible, and the portions are too small.",
+      author: "Woody Allen"
+    },
+    {
+      quote:
+        "No matter how many mistakes you make or how slow you progress, you are still way ahead of everyone who isn't trying.",
+      author: "Tony Robbins"
+    },
+    {
+      quote:
+        "Don't gain the world and lose your soul; wisdom is better than silver or gold.",
+      author: "Bob Marley"
+    },
+    {
+      quote:
+        "Of course I'm ambitious. What's wrong with that? Otherwise you sleep all day.",
+      author: "Ringo Starr"
+    },
+    {
+      quote:
+        "If you feel safe in the area you’re working in, you’re not working in the right area. Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth. And when you don’t feel that your feet are quite touching the bottom, you’re just about in the right place to do something exciting.",
+      author: "David Bowie"
+    },
+    {
+      quote:
+        "Speak in extremes, it'll save you time.",
+      author: "David Bowie"
+    },
+    {
+      quote:
+        "When you write a book, you spend day after day scanning and identifying the trees. When you’re done, you have to step back and look at the forest.",
+      author: "Stephen King"
+    },
+    {
+      quote:
+        "If you re-read your work, you can find on re-reading a great deal of repetition can be avoided by re-reading and editing.",
+      author: "William Safire"
+    },
+    {
+      quote:
+        "You can't revise a blank page.",
+      author: "Leonard Wolf"
+    },
+    {
+      quote:
+        "A professional writer is an amateur who didn't quit.",
+      author: "Richard Bach"
+    },
+    {
+      quote:
+        "I believe more in the scissors than I do in the pencil.",
+      author: "Truman Capote"
+    },
+    {
+      quote:
+        "Never write an advertisement which you wouldn't want your family to read. You wouldn't tell lies to your own wife. Don't tell them to mine.",
+      author: "David Ogilvy"
+    },
+    {
+      quote:
+        "On the average, five times as many people read the headline as read the body copy. When you have written your headline, you have spent eighty cents out of your dollar.",
+      author: "David Ogilvy"
+    },
+    {
+      quote:
+        "I am one who believes that one of the greatest dangers of advertising is not that of misleading people, but that of boring them to death.",
+      author: "Leo Burnett"
+    },
+    {
+      quote:
+        "We want consumers to say, 'That's a hell of a product' instead of, 'That's a hell of an ad.'",
+      author: "Leo Burnett"
+    },
+    {
+      quote:
+        "Half the money I spend on advertising is wasted; the trouble is I don't know which half.",
+      author: "John Wanamaker"
+    },
+    {
+      quote:
+        "Your most unhappy customers are your greatest source of learning.",
+      author: "Bill Gates"
+    },
+    {
+      quote:
+        "Good marketers tell a story.",
+      author: "Seth Godin"
+    },
+    {
+      quote:
+        "Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
+      author: "Stephen King"
+    },
+    {
+      quote:
+        "Don’t tell me how good you make it; tell me how good it makes me when I use it.",
+      author: "Leo Burnett"
+    },
+    {
+      quote:
+        "Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust.",
+      author: "Zig Ziglar"
+    },
+    {
+      quote:
+        "Creativity may well be the last legal unfair competitive advantage we can take to run over the competition.",
+      author: "David Trott"
+    },
+    {
+      quote:
+        "Do not be embarrassed by your failures, learn from them and start again.",
+      author: "Richard Branson"
+    },
+    {
+      quote:
+        "Successful people ask better questions, and as a result, they get better answers.",
+      author: "Tony Robbins"
+    },
+    {
+      quote:
+        "If you can’t explain it to a 6-year old, you don’t know it yourself.",
+      author: "Albert Einstein"
+    },
+    {
+      quote:
+        "Creativity is intelligence having fun.",
+      author: "Albert Einstein"
+    },
+    {
+      quote:
+        "To think creatively, we must be able to look afresh at what we normally take for granted.",
+      author: "George Kneller"
+    },
+    {
+      quote:
+        "An essential aspect of creativity is not being afraid to fail.",
+      author: "Edwin Land"
+    },
+    {
+      quote:
+        "Good marketing makes the company look smart. Great marketing makes the customer feel smart.",
+      author: "Joe Chernov"
+    },
+    {
+      quote:
+        "If you aim at nothing, you will hit it every time.",
+      author: "Zig Ziglar"
+    },
+    {
+      quote:
+        "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+      author: "Jeff Bezos, CEO and founder of Amazon"
+    },
+    {
+      quote:
+        "our personal brand is what people say about you when you are not in the room – remember that. And more importantly, let’s discover why!",
+      author: "Chris Ducker"
+    },
+    {
+      quote:
+        "Your brand is what other people say about you when you’re not in the room.",
+      author: "Jeff Bezos, CEO and founder of Amazon"
+    },
+    {
+      quote:
+        "If you decide that you’re going to do only the things you know are going to work, you’re going to leave a lot of opportunity on the table.",
+      author: "Jeff Bezos, CEO and founder of Amazon"
+    },
+    {
+      quote:
+        "Complaining is not a strategy. You have to work with the world as you find it, not as you would have it be.",
+      author: "Jeff Bezos, CEO and founder of Amazon"
+    },
+    {
+      quote:
+        "In the end, we are our choices.",
+      author: "Jeff Bezos, CEO and founder of Amazon"
+    },
+    {
+      quote:
+        "Design is thinking made visual.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "I want to make beautiful things, even if nobody cares, as opposed to ugly things. That's my intent.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "You know, whenever I was presented with a challenge that brought up feelings of fear or self-doubt, I almost always said, 'Yes'.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "I want everything we do to be beautiful. I don't give a damn whether the client understands that that's worth anything, or that the client thinks it's worth anything, or whether it is worth anything. It's worth it to me. It's the way I want to live my life. I want to make beautiful things, even if nobody cares.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "The ideal trademark is one that is pushed to its utmost limits in terms of abstraction and ambiguity, yet is still readable. Trademarks are usually metaphors of one kind or another. And are, in a certain sense, thinking made visible.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "Have you ever thought that radical ideas threaten institutions, then become institutions, and in turn reject radical ideas which threaten institutions?",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "You see an artist, a creative person, can accept criticism or can live with the criticism much more easily than with being ignored. Criticism makes you feel alive. If somebody is bothered enough to speak vituperatively about it, you feel you have touched a nerve and you are at least 'in touch.' You are not happy that he doesn't like it, but you feel you are in contact with life.",
+      author: "Saul Bass"
+    },
+    {
+      quote:
+        "You will learn most things by looking, but reading gives understanding. Reading will make you free.",
+      author: "Paul Rand"
+    },
+    {
+      quote:
+        "If I was influenced by anything, it was architecture: structure having to do with logic. If you don't do it right, the whole thing is going to cave in. In a certain sense, you can carry that to graphic design. Fortunately, however, nobody is going to die if you do it wrong.",
+      author: "Paul Rand"
+    },
+    {
+      quote:
+        "White space is to be regarded as an active element, not a passive background.",
+      author: "Jan Tschichold"
+    },
+    {
+      quote:
+        "The whole point with type is for you not to be aware it is there. If you remember the shape of a spoon with which you just ate some soup, then the spoon had a poor shape.",
+      author: "Adrian Frutiger"
+    },
+    {
+      quote:
+        "I'm obviously a typeomaniac, which is an incurable if not mortal disease. I can't explain it. I just love, I just like looking at type. I just get a total kick out of it: they are my friends. Other people look at bottles of wine or whatever, or, you know, girls' bottoms. I get kicks out of looking at type. It's a little worrying, I admit, but it's a very nerdish thing to do.",
+      author: "Erik Spiekermann"
+    },
+    {
+      quote:
+        "It took me a few seconds to draw it, but it took me 34 years to learn how to draw it in a few seconds.",
+      author: "Paula Scher"
+    },
+    {
+      quote:
+        "Words have meaning, type has spirit.",
+      author: "Paula Scher"
+    },
+    {
+      quote:
+        "Having no purpose is the function of art, so somebody else can look at it and ask a question. Design is different - you're supposed to understand what's going on. You can be delighted by it, intrigued by it, but you're supposed to know it's a hot dog stand.",
+      author: "Paula Scher"
+    },
+    {
+      quote:
+        "A designer without a sense of history is worth nothing.",
+      author: "Massimo Vignelli"
+    },
+    {
+      quote:
+        "Having small touches of colour makes it more colourful than having the whole thing in colour.",
+      author: "Dieter Rams"
+    },
+    {
+      quote:
+        "Question everything generally thought to be obvious.",
+      author: "Dieter Rams"
+    },
+    {
+      quote:
+        "It's very easy to be different, but very difficult to be better.",
+      author: "Jonathan Ive"
+    },
+    {
+      quote:
+        "There's no learning without trying lots of ideas and failing lots of times.",
+      author: "Jonathan Ive"
+    },
+    {
+      quote:
+        "Simplification is one of the most difficult things to do.",
+      author: "Jonathan Ive"
+    },
+    {
+      quote:
+        "The best ideas start as conversations.",
+      author: "Jonathan Ive"
+    },
+    {
+      quote:
+        "Simplicity is not the absence of clutter.",
+      author: "Jonathan Ive"
+    },
+    {
+      quote:
+        "I work through teams. It’s the only way I know how to work.",
+      author: "Angela Ahrendts"
+    },
+    {
+      quote:
+        "My dad would always say, 'When you look at a photo do you see yourself last?'",
+      author: "Angela Ahrendts"
+    },
+    {
+      quote:
+        "The easier it is to do something, the harder it is to change the way you do it.",
+      author: "Steve Wozniak"
+    },
+    {
+      quote:
+        "If you can't be bothered to work on Saturday, don't bother to come in on Sunday.",
+      author: "Jay Chiat"
+    },
+    {
+      quote:
+        "An ad should be an appetizer, not a buffet.",
+      author: "Lee Clow"
+    },
+    {
+      quote:
+        "Creative people are 50% ego and 50% insecurity.",
+      author: "Lee Clow"
+    },
+    {
+      quote:
+        "A thing that most creatives don't do well is that you've gotta learn to listen.",
+      author: "Lee Clow"
+    },
+    {
+      quote:
+        "Ultimately, if you are doing great work, the money will come.",
+      author: "Lee Clow"
+    },
+    {
+      quote:
+        "You can't just be you. You have to double yourself. You have to read books on subjects you know nothing about. You have to travel to places you never thought of traveling. You have to meet every kind of person and endlessly stretch what you know.",
+      author: "Mary Wells Lawrence"
+    },
+    {
+      quote:
+        "The best advertising should make you nervous about what you're not buying.",
+      author: "Mary Wells Lawrence"
+    },
+    {
+      quote:
         "Do not let what you cannot do interfere with what you can do.",
       author: "John Wooden"
     },
@@ -573,7 +1183,7 @@
       author: "Claude Louis Hector de Villars"
     },
     {
-      quote: 
+      quote:
         "The price of anything is the amount of life you exchange for it.",
       author: "Henry David Thoreau"
     },
